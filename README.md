@@ -1,2 +1,17 @@
-# todolist-app
-A Python and Tkinter-based To-Do List application for managing daily tasks. Users can add new tasks, mark completed tasks, and delete tasks in a simple, interactive interface. It’s designed for beginners learning how to build real-life desktop apps with Python.
+# To-Do List App
+
+A Python and Tkinter-based **To-Do List Application** for managing your daily tasks.
+
+## Features
+- Add new tasks.
+- Mark tasks as completed.
+- Delete tasks.
+- Clean, simple interface.
+
+## Technologies Used
+- Python
+- Tkinter
+
+## How to Run
+1. Install Python if you haven’t already.
+2. Clone the repository:
